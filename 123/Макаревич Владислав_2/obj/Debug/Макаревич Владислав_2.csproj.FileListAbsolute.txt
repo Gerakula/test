@@ -1,0 +1,10 @@
+C:\Users\makarevych\Desktop\Макаревич Владислав_2\Макаревич Владислав_2\bin\Debug\Макаревич Владислав_2.exe.config
+C:\Users\makarevych\Desktop\Макаревич Владислав_2\Макаревич Владислав_2\bin\Debug\Макаревич Владислав_2.exe
+C:\Users\makarevych\Desktop\Макаревич Владислав_2\Макаревич Владислав_2\bin\Debug\Макаревич Владислав_2.pdb
+C:\Users\makarevych\Desktop\Макаревич Владислав_2\Макаревич Владислав_2\obj\Debug\Макаревич Владислав_2.csprojAssemblyReference.cache
+C:\Users\makarevych\Desktop\Макаревич Владислав_2\Макаревич Владислав_2\obj\Debug\Макаревич_Владислав_2.Form1.resources
+C:\Users\makarevych\Desktop\Макаревич Владислав_2\Макаревич Владислав_2\obj\Debug\Макаревич_Владислав_2.Properties.Resources.resources
+C:\Users\makarevych\Desktop\Макаревич Владислав_2\Макаревич Владислав_2\obj\Debug\Макаревич Владислав_2.csproj.GenerateResource.cache
+C:\Users\makarevych\Desktop\Макаревич Владислав_2\Макаревич Владислав_2\obj\Debug\Макаревич Владислав_2.csproj.CoreCompileInputs.cache
+C:\Users\makarevych\Desktop\Макаревич Владислав_2\Макаревич Владислав_2\obj\Debug\Макаревич Владислав_2.exe
+C:\Users\makarevych\Desktop\Макаревич Владислав_2\Макаревич Владислав_2\obj\Debug\Макаревич Владислав_2.pdb

@@ -1,0 +1,17 @@
+X:\1\1\obj\Debug\1.csprojAssemblyReference.cache
+X:\1\1\obj\Debug\_1.Form1.resources
+X:\1\1\obj\Debug\_1.Properties.Resources.resources
+X:\1\1\obj\Debug\1.csproj.GenerateResource.cache
+X:\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+X:\1\1\bin\Debug\1.exe.config
+X:\1\1\bin\Debug\1.exe
+X:\1\1\bin\Debug\1.pdb
+X:\1\1\obj\Debug\1.exe
+X:\1\1\obj\Debug\1.pdb
+C:\Users\user\Desktop\1\1\obj\Debug\1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\1\1\obj\Debug\_1.Form1.resources
+C:\Users\user\Desktop\1\1\obj\Debug\_1.Properties.Resources.resources
+C:\Users\user\Desktop\1\1\obj\Debug\1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\1\1\obj\Debug\1.exe
+C:\Users\user\Desktop\1\1\obj\Debug\1.pdb

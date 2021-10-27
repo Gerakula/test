@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\z2\z2\obj\Debug\z2.Form1.resources
+C:\Users\user\Desktop\z2\z2\obj\Debug\z2.Properties.Resources.resources
+C:\Users\user\Desktop\z2\z2\obj\Debug\z2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\z2\z2\obj\Debug\z2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\z2\z2\bin\Debug\z2.exe.config
+C:\Users\user\Desktop\z2\z2\bin\Debug\z2.exe
+C:\Users\user\Desktop\z2\z2\bin\Debug\z2.pdb
+C:\Users\user\Desktop\z2\z2\obj\Debug\z2.exe
+C:\Users\user\Desktop\z2\z2\obj\Debug\z2.pdb
+C:\Users\user\Desktop\z2\z2\obj\Debug\z2.csprojAssemblyReference.cache
